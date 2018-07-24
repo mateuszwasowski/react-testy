@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * mój wpis
+
+* nowe cośtam
