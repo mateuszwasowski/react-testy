@@ -25,4 +25,6 @@ Things you may want to cover:
 
 * nowe cośtam
 
+* nowy wpis 09.08
+
 * inny wpis
