@@ -24,3 +24,5 @@ Things you may want to cover:
 * mój wpis
 
 * nowe cośtam
+
+* inny wpis
