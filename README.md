@@ -29,4 +29,6 @@ Things you may want to cover:
 
 * inny wpis
 
+* inny wpis 5.9
+
 * nowy wpis 5.09
