@@ -37,4 +37,6 @@ Things you may want to cover:
 
 * nowy wpis 20.9
 
-- inny wpis 21.11
+* inny wpis 21.11
+
+* nowy wpis 21.11
