@@ -45,3 +45,4 @@ Things you may want to cover:
 
 * nowy wpis 7.12
 
+* different info 8.5
