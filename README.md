@@ -49,3 +49,4 @@ Things you may want to cover:
 
 * new info 8.5
 
+* nowy wpis 26.09
