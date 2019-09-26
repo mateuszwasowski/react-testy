@@ -49,4 +49,6 @@ Things you may want to cover:
 
 * new info 8.5
 
-* inny wpis 26.9
+* nowy wpis 26.09
+
+* inny wpis 26.09
